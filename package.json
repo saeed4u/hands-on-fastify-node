@@ -1,0 +1,26 @@
+{
+  "name": "hands-on-fastify",
+  "version": "1.0.0",
+  "description": "Hands on with Fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fastify",
+    "node",
+    "mysql",
+    "swagger",
+    "boom"
+  ],
+  "author": "saeed issah",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "fastify": "^2.6.0",
+    "fastify-swagger": "^2.4.0",
+    "mongoose": "^5.6.2",
+    "nodemon": "^1.19.1",
+    "mysql": "^2.17.1"
+  }
+}
